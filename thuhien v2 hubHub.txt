@@ -2536,7 +2536,7 @@ spawn(function()
     wait(.24)
     require(game.ReplicatedStorage.Notification).new("<Color=Yellow>Tham gia discord để cập nhật thông tin mới nhất nhé<Color=/>"):Display()
     wait(.29)
-    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>script này chỉ chạy fluxus thoi nha<Color=/>"):Display()
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>discord:https://discord.com/invite/4BqdxQjE3g<Color=/>"):Display()
     wait(.36)
 end)
 
